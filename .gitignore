@@ -1,0 +1,22 @@
+# Keil C / MDK-ARM ignore
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.map
+*.lst
+*.m51
+*.hex
+*.axf
+*.bin
+*.uvguix.*
+*.bak
+*.scvd
+DebugConfig/
+Listings/
+Objects/
+
+# STM32CubeMX ignore
+*.launch
+.mxproject
