@@ -4,7 +4,7 @@
 
 Hệ thống đèn chiếu sáng thông minh sử dụng vi điều khiển **STM32F103C8T6**, tự động điều chỉnh cường độ sáng dựa trên ánh sáng môi trường, tích hợp cảm biến phát hiện chuyển động và tối ưu hóa trải nghiệm thị giác người dùng bằng các thuật toán xử lý tín hiệu số thời gian thực.
 
-🎥 **Video Demo Hoạt Động :** [ VIDEO DEMO SẢN PHẨM ](Thay_Link_Video_Cua_Ban_Vao_Day)
+🎥 **Video Demo Hoạt Động :** [ VIDEO DEMO SẢN PHẨM ](https://drive.google.com/drive/folders/1Ui-AjM84c4pKZEXi94avBHPAIBK-4vks?usp=drive_link)
 
 ---
 
